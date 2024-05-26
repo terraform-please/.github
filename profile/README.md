@@ -1,7 +1,7 @@
 # Terraform Modules by terraform-please 🚀
 
 Welcome to the terraform-please organization! Here, we maintain repositories that provide one-to-one conversions of popular Kubernetes
-applications from kubectl manifests to native HCL format for use with Terraform/OpenTofu. This enables you to manage your Kubernetes 
+applications from kubectl manifests to native HCL format for use with Terraform/OpenTofu/CDKTF. This enables you to manage your Kubernetes 
 resources alongside the rest of your infrastructure using Terraform.
 
 ## Repositories 📚
