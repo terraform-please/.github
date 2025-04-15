@@ -23,6 +23,11 @@ the [GitLab Runner Operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-r
 This repository contains the HCL converted version of the [Cert Manager](https://github.com/cert-manager/cert-manager)
 kubectl manifests.
 
+### [CockroachDB Operator](https://github.com/terraform-please/cockroach-operator)
+
+This repository contains the HCL converted version of the [CockroachDB Operator](https://github.com/cockroachdb/cockroach-operator)
+kubectl manifests.
+
 ## Contributing 🤝
 
 We welcome contributions! Feel free to open issues or pull requests for improvements or fixes. If you have any questions
